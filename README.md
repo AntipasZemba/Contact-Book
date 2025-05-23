@@ -32,4 +32,4 @@ Using a while loop to keep the program running until the user exits
 
 
 Contacts are stored as a dictionary like this:
-{"name": "Alice", "phone": "1234567890"}
+{"name": "Antipas", "phone": "1234567890"}
